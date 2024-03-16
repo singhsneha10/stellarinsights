@@ -1,6 +1,6 @@
 <div align="center">
   
-# Genz Horoscope
+# Stellar Insights
 <img src="./media/screenshot.png" width="50%">
 </div>
 
